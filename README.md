@@ -140,4 +140,5 @@ _Evolving AI with algorithms and chess._
 
 ## 📃 License
 
-This project is open-sourced under the MIT License.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
