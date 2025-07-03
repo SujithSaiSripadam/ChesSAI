@@ -1,0 +1,19 @@
+For each ELO level:
+    For N games:
+        Initialize board
+        while not game over:
+            If agent's turn:
+                Simplify board if needed
+                Use policy or MCTS
+                Sample move, store log-prob, value
+            If opponent's turn:
+                Stockfish (or random) plays
+            Save board & move info
+        Assign rewards (shaped)
+        Calculate returns with GAE
+    Update PPO policy from game history
+    Validate against fixed Stockfish levels
+    Adjust ELO and LR scheduler
+    Save model & graphs
+
+    

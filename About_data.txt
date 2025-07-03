@@ -1,0 +1,3 @@
+For opening : The data is taken from a git hub repo : https://github.com/hayatbiralem/eco.json.git
+
+for Phase 1 : the data i s taken from Lichess data base : https://database.lichess.org/
