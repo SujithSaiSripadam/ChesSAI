@@ -49,7 +49,7 @@ This repository implements a self-evolving chess AI that blends **Proximal Polic
 
 1. **Clone the repository**  
 ```bash
-git clone (https://github.com/SujithSaiSripadam/ChesSAI.git)
+git clone https://github.com/SujithSaiSripadam/ChesSAI.git
 cd chessai
 ```
 
