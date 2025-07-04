@@ -2,6 +2,8 @@
 
 A chess engine combining **PPO** and **MCTS**, trained via self-play, imitation learning, and dynamic ELO-based curriculum.
 
+![Flow chart](chessai.png)
+
 ---
 
 ## 🚀 Overview
